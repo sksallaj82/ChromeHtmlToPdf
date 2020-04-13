@@ -1,4 +1,4 @@
-#This is a forked repo to help contribute to the original project
+# This is a forked repo to help contribute to the original project
 This repo was used to update the libraries to help switch from using ASP .NET 4.5 to ASP CORE 3.1. So if you found yourself here, please go to the original repo as the changes from this repo has been committed.
 
 The original repo: https://github.com/Sicos1977/ChromeHtmlToPdf
