@@ -1,3 +1,7 @@
+#This is a forked repo to help contribute to the original project: https://github.com/Sicos1977/ChromeHtmlToPdf#
+This repo was used to update the libraries to help switch from using ASP .NET 4.5 to ASP CORE 3.1. So if you found yourself here, please go to the original repo as the changes from this repo has been committed.
+
+
 ## What is ChromeHtmlToPdf?
 
 ChromeHtmlToPdf is a 100% managed C# .NET library and console application that can be used to convert HTML to PDF format with the use of Google Chrome
